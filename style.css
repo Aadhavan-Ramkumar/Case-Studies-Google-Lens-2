@@ -1,0 +1,66 @@
+body {
+    color: rgb(236, 229, 218);
+    background-color: rgb(0, 0, 0)
+}
+
+h4 {
+    text-align: center;
+    font-family: "Lexend Tera", sans-serif
+}
+
+#CopyrightFooter {
+    position: fixed;
+    color: rgb(173, 161, 142);
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    font-family: "Special Elite", cursive
+}
+
+ol h5 {
+    background: black;
+    padding: 13px;
+    border-radius: 20px
+}
+
+span {
+    color: red;
+    font-size: 16px
+}
+
+li img {
+    border-radius: 20px
+}
+
+.Item {
+    background-color: rgb(62, 73, 79);
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: rgb(80, 92, 98) 5px 5px 18px
+}
+
+b {
+    color: #FF6BFF
+}
+
+.Results {
+    text-align: center;
+    color: white
+}
+
+#FinalResult {
+    box-shadow: rgb(80 92 98) 5px 5px 18px;
+    letter-spacing: 2px;
+    background-color: rgb(62, 0, 0);
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid rgb(62, 73, 77);
+}
+
+.container {
+    margin: 50px;
+}
